@@ -1,0 +1,39 @@
+
+
+.divHeaderCarhaMasiva
+{
+    max-width: 100%;
+    background-color: #003173;
+    min-width: 100%;
+    width: 100%;
+}
+
+.floatElementoRight
+{
+    float: right;
+}
+
+.navBar
+{
+    background: #003173;
+    border: none;
+    color: #f9efef;
+    font: bold 36px verdana, sans-serif;
+}
+
+
+.marginIconTop
+{
+    margin-top: 16px;
+}
+
+.floatElementoLeft
+{
+    float: left;
+}
+
+.topGlip
+{
+    color: #ffffff;
+}
+

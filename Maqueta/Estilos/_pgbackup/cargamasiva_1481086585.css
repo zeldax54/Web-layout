@@ -1,0 +1,88 @@
+
+
+.divHeaderCarhaMasiva
+{
+    max-width: 100%;
+    background-color: #003173;
+    min-width: 100%;
+    width: 100%;
+}
+
+.floatElementoRight
+{
+    float: right;
+}
+
+.navBar
+{
+    background: #003173;
+    border: none;
+    color: #f9efef;
+    font: 15px verdana, sans-serif;
+}
+
+.marginIconTop
+{
+    margin-top: 16px;
+}
+
+.floatElementoLeft
+{
+    float: left;
+}
+
+.topGlip
+{
+    color: #ffffff;
+}
+
+.encParrafo
+{
+    margin-top: 15px;
+    padding-left: 3px;
+    font: bold 14pt verdana;
+}
+
+.flecha:hover
+{
+    cursor: pointer;
+}
+
+.nombreEventoPrograma
+{
+    font: bold 18pt verdana;
+    color: d2edff;
+}
+
+.container
+{
+    margin-top: -12px;
+}
+
+.segundodiv
+{
+    margin-top: 25px;
+}
+
+.cabezasInfo
+{
+    font: bold 14pt verdana;
+    margin-left: 12;
+}
+
+.datosInfo
+{
+    font: 14pt verdana, regular;
+    margin-left: 2px;
+}
+
+.marginsimple
+{
+    margin-left: 9px;
+}
+
+.tercerdiv
+{
+    margin-top: 52px;
+}
+
