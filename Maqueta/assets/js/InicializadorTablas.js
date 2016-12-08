@@ -14,7 +14,7 @@ function IniciarTabla(tablaid) {
             "sInfoEmpty": "No se han encontrado registros",
             "sInfoFiltered": "(filtrado de un total de _MAX_ registros)",
             "sInfoPostFix": "",
-            "sSearch": "Buscar:",
+            "sSearch": '<span class="glyphicon glyphicon-search" style="margin-left:30px"></span>',
             "sUrl": "",
             "sInfoThousands": ",",
             "sLoadingRecords": "Cargando...",
@@ -43,7 +43,14 @@ function IniciarTabla(tablaid) {
             'copyHtml5',
             'excelHtml5',
             'csvHtml5'],
-			
+			 
+			 "columnDefs": [
+			 
+           {
+               "targets": [0,2,3,4,5,6,7],               
+               "orderable": false
+			   }
+			]
 			
     });
 }

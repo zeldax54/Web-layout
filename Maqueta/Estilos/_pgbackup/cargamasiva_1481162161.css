@@ -1,0 +1,260 @@
+
+
+.divHeaderCarhaMasiva
+{
+    max-width: 100%;
+    background-color: #003173;
+    min-width: 100%;
+    width: 100%;
+}
+
+.floatElementoRight
+{
+    float: right;
+}
+
+.navBar
+{
+    background: #003173;
+    border: none;
+    color: #f9efef;
+    font: 15px verdana, sans-serif;
+}
+
+.marginIconTop
+{
+    margin-top: 16px;
+}
+
+.floatElementoLeft
+{
+    float: left;
+}
+
+.topGlip
+{
+    color: #ffffff;
+}
+
+.encParrafo
+{
+    margin-top: 15px;
+    padding-left: 3px;
+    font: bold 14pt verdana;
+}
+
+.flecha:hover
+{
+    cursor: pointer;
+}
+
+.nombreEventoPrograma
+{
+    font: bold 18pt verdana;
+    color: #d2edff;
+}
+
+.container
+{
+    margin-top: -12px;
+}
+
+.segundodiv
+{
+    margin-top: 25px;
+}
+
+.cabezasInfo
+{
+    font-family: Verdana;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.datosInfo
+{
+    font: Verdana;
+    font-size: 14pt;
+    font-weight: normal;
+    margin-left: 2px;
+}
+
+.marginsimple
+{
+    margin-left: 18px;
+}
+
+.tercerdiv
+{
+    margin-top: 52px;
+    margin-left: -12px;
+}
+
+.botonesCM
+{
+    background: #01495f;
+    color: #ffffff;
+    font-size: 10px;
+    font-family: Verdana;
+    font-weight: Regular;
+    width: 230px;
+    min-width: 153px;
+    max-width: 230px;
+}
+
+.azulclaro
+{
+    background-color: #0394ed;
+    color: #fffbfb;
+}
+
+.amarillo
+{
+    background-color: #ffa80b;
+}
+
+.purpura
+{
+    background-color: #683d8b;
+}
+
+.cuartodiv
+{
+    margin-top: 19px;
+}
+
+.botonEliminar
+{
+    color: #ffffff;
+    background-color: #a91800;
+    border: none;
+}
+
+.tablaDiv
+{
+    margin-top: 88px;
+}
+
+.tableTHAzul thead th
+{
+    color: white;
+    background: #908f94;
+    text-align: center;
+    font: 12pt verdana;
+}
+
+.tableTHAzul tbody td
+{
+    color: #003471;
+    text-align: center;
+    font: 12pt verdana;
+}
+
+.tableTHAzul tfoot td
+{
+    color: white;
+    background: #337aB7;
+    text-align: center;
+    font-size: 12pt;
+}
+
+.tableTHAzul tfoot th
+{
+    color: white;
+    background: #337aB7;
+    text-align: center;
+    font: 10pt verdana;
+}
+
+.tabla-border
+{
+    border-left: 1px solid #a7a7a7;
+}
+
+.odd
+{
+    backgroud: #ffffff;
+}
+
+.even
+{
+    background: #e9e8ee;
+}
+
+.div.dataTables_paginate
+{
+    font-size: 12px;
+}
+
+.editBoton
+{
+    background-color: #07cc87;
+    border: none;
+}
+
+.spanEdit
+{
+    color: #fffdfd;
+}
+
+.checkBox
+{
+    border: 1px solid  #00ec83;
+    padding: 10px;
+}
+
+.botonGuardar
+{
+    font: 16pt verdana, sans-serif;
+    height: 55px;
+    width: 120px;
+    color: #fff;
+    background-color: #3ecf8a;
+    border: none;
+    margin-right: 15px;
+}
+
+.cerrarBtn
+{
+    font: 16pt verdana, sans-serif;
+    height: 55px;
+    width: 120px;
+    color: #fff;
+    background-color: #0394ed;
+    border: none;
+}
+
+.divsEnc
+{
+    margin-left: 14px;
+}
+
+.divbotones
+{
+    margin-left: 2px;
+}
+
+.ultimobotonOverwrite
+{
+    width: 174px;
+    min-width: 174px;
+    max-width: 174px;
+    background: #01495f;
+    color: #ffffff;
+    font-size: 10px;
+    font-family: Verdana;
+    font-weight: Regular;
+}
+
+.tercerBtnOverWrite
+{
+    width: 80%;
+    min-width: 80%;
+    max-width: 143px;
+    background: #01495f;
+    color: #ffffff;
+    font-size: 10px;
+    font-family: Verdana;
+    font-weight: Regular;
+}
+
