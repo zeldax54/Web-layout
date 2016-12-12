@@ -1,0 +1,310 @@
+
+
+.divHeaderCarhaMasiva
+{
+    max-width: 100%;
+    background-color: #003173;
+    min-width: 100%;
+    width: 100%;
+}
+
+.floatElementoRight
+{
+    float: right;
+}
+
+.navBar
+{
+    background: #003173;
+    border: none;
+    color: #f9efef;
+    font: 15px verdana, sans-serif;
+}
+
+.marginIconTop
+{
+    margin-top: 16px;
+}
+
+.floatElementoLeft
+{
+    float: left;
+}
+
+.topGlip
+{
+    color: #ffffff;
+}
+
+.encParrafo
+{
+    margin-top: 15px;
+    padding-left: 3px;
+    font: bold 14pt verdana;
+}
+
+.flecha:hover
+{
+    cursor: pointer;
+}
+
+.nombreEventoPrograma
+{
+    font: bold 18pt verdana;
+    color: #d2edff;
+}
+
+.container
+{
+    margin-top: -12px;
+}
+
+.segundodiv
+{
+    margin-top: 25px;
+}
+
+.cabezasInfo
+{
+    font-family: Verdana;
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+.datosInfo
+{
+    font-size: 11pt;
+    font-weight: normal;
+    margin-left: 2px;
+    font-family: Verdana;
+}
+
+.marginsimple
+{
+    margin-left: 18px;
+}
+
+.tercerdiv
+{
+    margin-top: 52px;
+}
+
+.botonesCM
+{
+    background: #01495f;
+    color: #ffffff;
+    font-size: 7pt;
+    font-family: Verdana;
+    font-weight: Regular;
+    min-width: 84%;
+    max-width: 84%;
+    width: 84%;
+    border: none;
+}
+
+.azulclaro
+{
+    background-color: #0394ed;
+    color: #fffbfb;
+    border: none;
+}
+
+.amarillo
+{
+    background-color: #ffa80b;
+    border-radius: 2px 0px 0px 2px !important;
+}
+
+.purpura
+{
+    background-color: #683d8b;
+    border-radius: 2px 0px 0px 2px !important;
+}
+
+.cuartodiv
+{
+    margin-top: 19px;
+}
+
+.botonEliminar
+{
+    color: #ffffff;
+    background-color: #a91800;
+    border: none;
+}
+
+.tablaDiv
+{
+    margin-top: 55px;
+}
+
+.tableTHAzul thead th
+{
+    color: white;
+    background: #908f94;
+    text-align: center;
+    font: 12pt verdana;
+}
+
+.tableTHAzul tbody td
+{
+    color: #003471;
+    text-align: center;
+    font: 12pt verdana;
+}
+
+.tableTHAzul tfoot td
+{
+    color: white;
+    background: #337aB7;
+    text-align: center;
+    font-size: 12pt;
+}
+
+.tableTHAzul tfoot th
+{
+    color: white;
+    background: #337aB7;
+    text-align: center;
+    font: 10pt verdana;
+}
+
+.tabla-border
+{
+    border-left: 1px solid #a7a7a7;
+}
+
+.odd
+{
+    backgroud: #ffffff;
+}
+
+.even
+{
+    background: #e9e8ee;
+}
+
+.div.dataTables_paginate
+{
+    font-size: 12px;
+}
+
+.editBoton
+{
+    background-color: #07cc87;
+    border: none;
+}
+
+.spanEdit
+{
+    color: #fffdfd;
+}
+
+.checkBox
+{
+    border: 1px solid  #00ec83;
+    padding: 10px;
+    -webkit-box-shadow: 0px 0px 0px 1px rgba(255,0,0,1);
+    -moz-box-shadow: 0px 0px 0px 1px rgba(255,0,0,1);
+    box-shadow: 0px 0px 0px 1px #07cc87;
+}
+
+.botonGuardar
+{
+    height: 55px;
+    width: 120px;
+    color: #fff;
+    background-color: #3ecf8a;
+    margin-right: 16px;
+    -moz-border-radius: 8px 8px 8px 8px;
+    -webkit-border-radius: 8px 8px 8px 8px;
+    border-radius: 8px 8px 8px 8px;
+    font-family: Open Sans;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+.cerrarBtn
+{
+    height: 55px;
+    width: 120px;
+    color: #fff;
+    background-color: #0394ed;
+    -moz-border-radius: 8px 8px 8px 8px;
+    -webkit-border-radius: 8px 8px 8px 8px;
+    border-radius: 8px 8px 8px 8px;
+    font-family: Open Sans;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.inputfield
+{
+    margin-top: 56px;
+}
+
+.roundBorder
+{
+    -moz-border-radius: 10px 10px 10px 10px !important;
+    -webkit-border-radius: 10px 10px 10px 10px!important;
+    border-radius: 0px 5px 5px 0px !important;
+}
+
+.dataTables_filter
+{
+    float: left;
+}
+
+.botonemilinar
+{
+    width: 43px;
+}
+
+@media (width: 1024px)
+{
+    .cabezasInfo
+    {
+        font-size: 14pt;
+    }
+    .botonesCM
+    {
+        font-size: 11pt;
+    }
+    .datosInfo
+    {
+        font-size: 14pt;
+    }
+}
+
+@media (min-width: 1024px)
+{
+    .inputfield
+    {
+        width: 66%;
+        text-align: center;
+        margin: 0px auto;
+        margin-top: 52px;
+    }
+}
+
+@media (width: 360px)
+{
+    .botonesCM
+    {
+        font-size: 5pt;
+        max-width: 97%;
+        height: 42px !important;
+    }
+}
+
+.customModal
+{
+    width: 44%;
+    margin-top: 230px !important;
+}
+
+.customModal .modal-content {
+     background: #e5e5e6;     
+}
+
+
