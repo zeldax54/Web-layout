@@ -49,3 +49,12 @@
         height: 42px !important;
     }
 }
+
+@media (width: 768px)
+{
+    .botonesCM
+     {
+        font-size: 8pt;
+   
+    }
+}

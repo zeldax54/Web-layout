@@ -93,7 +93,7 @@
 {
     background: #01495f;
     color: #ffffff;
-    font-size: 7pt;
+    font-size: 9pt;
     font-family: Verdana;
     font-weight: Regular;
     min-width: 84%;
@@ -261,6 +261,9 @@
 .botonemilinar
 {
     width: 43px;
+	height: 21px;
+
+margin-top: 6px;
 }
 
 .customModal
