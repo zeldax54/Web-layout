@@ -104,14 +104,14 @@
 		font-size: 8pt;
 	}
 	.segundobtn {
-    width: 50% !important;
+   width: 120% !important;
     margin-top: 2px !important;
     margin-left: 0px;
        }
 	   
 	   
 	   .pdivbtn {
-    width: 57%;
+    width: 147%;
        }
 }
 
@@ -189,4 +189,13 @@
 	float:none !important;
 	 width: 77%;
 	}
+}
+
+/* Portrait */
+
+
+
+/* Landscape */
+@media screen and (orientation:landscape) {
+/* Landscape styles */
 }
