@@ -165,7 +165,7 @@
 @media (min-width:1024px){
 	.infoCalendar {
 	width: 23% !important;
-   margin-right: -113px !important;
+  /* margin-right: -113px !important;*/
 	 
 	}
 }
@@ -179,8 +179,8 @@
 }
 @media (min-width:1024px){
 	.infoCalendar {
-	width: 23% !important;
-   margin-right: -113px !important;
+	width: 24% !important;
+   margin-right: 8px !important;
 	 
 	}
 }
