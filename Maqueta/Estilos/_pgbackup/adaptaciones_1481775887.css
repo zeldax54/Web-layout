@@ -1,0 +1,63 @@
+@media (width: 1024px)
+{
+    .cabezasInfo
+    {
+        font-size: 14pt;
+    }
+    .botonesCM
+    {
+        font-size: 11pt;
+    }
+    .datosInfo
+    {
+        font-size: 14pt;
+    }
+}
+
+@media (min-width: 1024px)
+{
+	.botonesCM
+    {
+        font-size: 11pt;
+    }
+    .inputfield
+    {       
+        text-align: center;   
+      
+    }
+	.infoCalendar
+	{
+		width: 22%;
+	}
+	.segDivEventos{
+		width: 46%;
+	}
+	
+	.extraMarginTabListadoPart{
+		margin-top:55px;
+	}
+	.agregarPartinListado{
+		width: 24% !important;
+	}
+	
+}
+
+@media (width:768px)
+{
+	.tableTHAzul tbody td{
+		font: 8pt verdana;
+	}
+	.tableTHAzul thead th{
+		font-size: 8pt;
+	}
+}
+
+@media (width: 360px)
+{
+    .botonesCM
+    {
+        font-size: 5pt;
+        max-width: 97%;
+        height: 42px !important;
+    }
+}

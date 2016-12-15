@@ -57,6 +57,7 @@
 .container
 {
     margin-top: -12px;
+    margin-left: 27px;
 }
 
 .segundodiv
@@ -93,13 +94,11 @@
 {
     background: #01495f;
     color: #ffffff;
-    font-size: 9pt;
+    font-size: 7pt;
     font-family: Verdana;
     font-weight: Regular;
-    min-width: 84%;
-    max-width: 84%;
-    width: 84%;
     border: none;
+    width: 90% !important;
 }
 
 .azulclaro
@@ -214,8 +213,8 @@
 
 .botonGuardar
 {
-    height: 55px;
-    width: 120px;
+    height: 40px;
+    width: 116px;
     color: #fff;
     background-color: #3ecf8a;
     margin-right: 16px;
@@ -229,8 +228,8 @@
 
 .cerrarBtn
 {
-    height: 55px;
-    width: 120px;
+    height: 40px;
+    width: 113px;
     color: #fff;
     background-color: #0394ed;
     -moz-border-radius: 8px 8px 8px 8px;
@@ -243,7 +242,8 @@
 
 .inputfield
 {
-    margin-top: 56px;
+    margin-top: 20px;
+    margin-right: -65px !important;
 }
 
 .roundBorder
@@ -261,9 +261,6 @@
 .botonemilinar
 {
     width: 43px;
-	height: 21px;
-
-margin-top: 6px;
 }
 
 .customModal
@@ -334,6 +331,7 @@ margin-top: 6px;
 .infoCalendar
 {
     width: 33%;
+    margin-right: -113px;
 }
 
 .spaninfoCalendar
@@ -361,40 +359,22 @@ margin-top: 6px;
 
 #listado_eventos
 {
-    margin: 0px auto 0px -24px;
-    width: 107%;
-    margin-left: -24px !important;
-    margin-top: 0px;
-    margin-right: auto;
-    margin-bottom: 0px;
+    margin-right: auto !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
 }
 
 #listado_participantes
 {
-    margin: 0px auto 0px -24px;
-    width: 107%;
-    margin-left: -24px !important;
-    margin-top: 0px;
-    margin-right: auto;
-    margin-bottom: 0px;
-}
-
-#cargaMasivaUsers
-{
-    margin: 0px auto 0px -24px;
-    width: 107%;
-    margin-left: -24px !important;
-    margin-top: 0px;
-    margin-right: auto;
-    margin-bottom: 0px;
 }
 
 .agregarPartinListado
 {
     width: 38% !important;
-    margin-right: -58px !important;
+    margin-right: -42px !important;
     margin-bottom: 12px;
 }
+
 
 .extraMarginTabListadoPart
 {
@@ -413,6 +393,33 @@ margin-top: 6px;
 
 .marginTopFix
 {
-    margin-top: -20px;;
+    margin-top: 3px;
+}
+
+.margintopGroup
+{
+    margin-top: 40px !important;
+}
+
+.brnrofo
+{
+    background-color: #a91800;
+}
+
+.pdivbtn
+{
+    width: 49%;
+}
+
+.marginleftfix
+{
+    margin-left: 35px !important;
+}
+
+.segundobtn
+{
+    width: 42% !important;
+    margin-top: -34px !important;
+    margin-left: 548px;
 }
 
