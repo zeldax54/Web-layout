@@ -75,6 +75,28 @@
        }
 }
 
+@media (max-width:992px)
+{
+	.tableTHAzul tbody td{
+		font: 8pt verdana;
+	}
+	.tableTHAzul thead th{
+		font-size: 8pt;
+	}
+	.segundobtn {
+    width: 50% !important;
+    margin-top: 2px !important;
+    margin-left: 0px;
+       }
+	   
+	   
+	   .pdivbtn {
+    width: 57%;
+       }
+}
+
+
+
 @media (max-width:800px)
 {
 	.tableTHAzul tbody td{
