@@ -35,7 +35,7 @@
 		width: 22%;
 	}
 	.segDivEventos{
-		width: 46%;
+		/*width: 46%;*/
 	}
 	
 	.extraMarginTabListadoPart{
@@ -193,5 +193,7 @@
 
 
 
-
+/*@media and (-webkit-min-device-pixel-ratio:0) {
+  .btn-group{display:display:table-row-group;} 
+}*/
 

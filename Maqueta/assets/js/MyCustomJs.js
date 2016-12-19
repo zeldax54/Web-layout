@@ -1,7 +1,12 @@
 $(document).ready(function(){
 	IniciarTabla('cargaMasivaUsers',[0,3,5,6,7]);
 	IniciarTabla('listado_eventos',[0,2,3]);
-	IniciarTabla('listado_participantes',[0,2,3,4,5]);
+	IniciarTabla('listado_participantes',[0,4,5]);
+	
+	if (navigator.appVersion.indexOf("Chrome/") != -1) {
+    $('.btn-group').attr('style','display:inline-table');//Ajustando en chrome botones
+
+   }
 	})
 
 

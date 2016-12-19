@@ -373,9 +373,12 @@
 
 .agregarPartinListado
 {
-   width: 36% !important;
-    margin-right: -15px !important;
-    margin-bottom: 12px;
+width: 36% !important;
+margin-right: -15px !important;
+margin-bottom: 12px;
+z-index: 5000;
+position: sticky;
+margin-top: 58px;
 }
 
 
