@@ -104,15 +104,16 @@
 		font-size: 8pt;
 	}
 	.segundobtn {
-   width: 120% !important;
+   width: 110% !important;
     margin-top: 2px !important;
     margin-left: 0px;
        }
 	   
 	   
 	   .pdivbtn {
-    width: 147%;
+    width: 138%;
        }
+	   
 }
 
 @media (width: 360px)

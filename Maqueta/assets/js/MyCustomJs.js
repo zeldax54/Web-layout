@@ -5,9 +5,20 @@ $(document).ready(function(){
 	
 	if (navigator.appVersion.indexOf("Chrome/") != -1) {
     $('.btn-group').attr('style','display:inline-table');//Ajustando en chrome botones
-
+    
    }
-	})
+  
+	
+  
+if (navigator.appName == 'Microsoft Internet Explorer' ||  !!(navigator.userAgent.match(/Trident/) || navigator.userAgent.match(/rv 11/)) || $.browser.msie == 1)
+{
+   $('.btn-group').attr('style','display:inline-table');//Ajustando en chrome botones IE
+   
+}
+
+  
+    
+	});
 
 
 function IniciarTabla(tablaid,colorder) {
