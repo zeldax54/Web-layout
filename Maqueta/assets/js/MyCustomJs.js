@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	IniciarTabla('cargaMasivaUsers',[0,3,5,6,7]);
+	IniciarTabla('cargaMasivaUsers',[3,5,6,7]);
 	IniciarTabla('listado_eventos',[2,3]);
 	IniciarTabla('listado_participantes',[4,5]);
 	
