@@ -376,7 +376,7 @@
 width: 36% !important;
 margin-right: -15px !important;
 margin-bottom: 12px;
-z-index: 5000;
+z-index: 10;
 position: sticky;
 margin-top: 58px;
 }
