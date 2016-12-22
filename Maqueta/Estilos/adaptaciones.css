@@ -186,11 +186,20 @@ height: 60%;
 }
 @media (max-width:768px){
 .infoCalendar {
-	width: 45% !important;
+	width: 48% !important;
 margin-right: 10px !important;
 	 
 	}	
 }
+@media (max-width:770px){
+.infoCalendar {
+	width: 33% !important;
+margin-right: 10px !important;
+	 
+	}	
+}
+
+
 @media (min-width:1024px){
 	.infoCalendar {
 	width: 24% !important;

@@ -17,9 +17,7 @@ if (navigator.appName == 'Microsoft Internet Explorer' ||  !!(navigator.userAgen
 }
     
 	});
-	$( window ).resize(function() {
-  
-});
+
 
 
 
