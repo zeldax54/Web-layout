@@ -1,0 +1,200 @@
+@media (width: 1024px)
+{
+    .cabezasInfo
+    {
+        font-size: 14pt;
+    }
+    .botonesCM
+    {
+        font-size: 11pt;
+    }
+    .datosInfo
+    {
+        font-size: 14pt;
+    }
+	
+}
+
+
+
+
+
+@media (min-width: 1024px)
+{
+	.botonesCM
+    {
+        font-size: 10pt;
+    }
+    .inputfield
+    {       
+        text-align: center;   
+      
+    }
+	.infoCalendar
+	{
+		width: 22%;
+	}
+	.segDivEventos{
+		/*width: 46%;*/
+	}
+	
+	.extraMarginTabListadoPart{
+		margin-top:55px;
+	}
+	.agregarPartinListado{
+	width: 26% !important;
+	}
+	
+	
+	.tableTHAzul tbody td{
+		font: 11pt verdana;
+	}
+	.tableTHAzul thead th{
+		font-size: 11pt;
+	}
+	
+}
+
+@media (max-width:768px)
+{
+	.tableTHAzul tbody td{
+		font: 8pt verdana;
+	}
+	.tableTHAzul thead th{
+		font-size: 8pt;
+	}
+	.segundobtn {
+    width: 50% !important;
+    margin-top: 2px !important;
+    margin-left: 0px;
+       }
+	   
+	   
+	   .pdivbtn {
+    width: 57%;
+       }
+}
+
+@media (max-width:800px)
+{
+	.tableTHAzul tbody td{
+		font: 8pt verdana;
+	}
+	.tableTHAzul thead th{
+		font-size: 8pt;
+	}
+	.segundobtn {
+    width: 50% !important;
+    margin-top: 2px !important;
+    margin-left: 0px;
+       }
+	   
+	   
+	   .pdivbtn {
+    width: 57%;
+       }
+}
+
+@media (max-width:1080px)
+{
+	.tableTHAzul tbody td{
+		font: 8pt verdana;
+	}
+	.tableTHAzul thead th{
+		font-size: 8pt;
+	}
+	.segundobtn {
+   width: 110% !important;
+    margin-top: 2px !important;
+    margin-left: 0px;
+       }
+	   
+	   
+	   .pdivbtn {
+    width: 138%;
+       }
+	   
+}
+
+@media (width: 360px)
+{
+    .botonesCM
+    {
+        font-size: 5pt;
+        max-width: 97%;
+        height: 42px !important;
+    }
+	.segundobtn {
+    width: 100% !important;
+    margin-top: 2px !important;
+    margin-left: 0px;
+       }
+	   
+	   
+	   .pdivbtn {
+    width: 100%;
+       }
+}
+
+@media (max-width:320px)
+{
+    .botonesCM
+    {
+        font-size: 5pt;
+        max-width: 97%;
+        height: 42px !important;
+    }
+	.segundobtn {
+    width: 100% !important;
+    margin-top: 2px !important;
+    margin-left: 0px;
+       }
+	   
+	   
+	   .pdivbtn {
+    width: 100%;
+       }
+}
+
+@media (min-width:768px){
+	.infoCalendar {
+	width: 32% !important;
+     margin-right: 0px !important;
+	}
+}
+
+@media (min-width:1024px){
+	.infoCalendar {
+	width: 23% !important;
+  /* margin-right: -113px !important;*/
+	 
+	}
+}
+
+@media (min-width:980px){
+	.infoCalendar {
+	width: 35% !important;
+   margin-right: -113px !important;
+	 
+	}
+}
+@media (min-width:1024px){
+	.infoCalendar {
+	width: 24% !important;
+   margin-right: 8px !important;
+	 
+	}
+}
+@media (max-width:360px){
+	.infoCalendar {
+	float:none !important;
+	 width: 77%;
+	}
+}
+
+
+
+/*@media and (-webkit-min-device-pixel-ratio:0) {
+  .btn-group{display:display:table-row-group;} 
+}*/
+

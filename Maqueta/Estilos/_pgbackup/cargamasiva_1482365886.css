@@ -1,0 +1,452 @@
+
+
+.divHeaderCarhaMasiva
+{
+    max-width: 100%;
+    background-color: #003173;
+    min-width: 100%;
+    width: 100%;
+}
+
+.floatElementoRight
+{
+    float: right;
+}
+
+.navBar
+{
+    background: #003173;
+    border: none;
+    color: #f9efef;
+    font: 15px verdana, sans-serif;
+}
+
+.marginIconTop
+{
+    margin-top: 16px;
+}
+
+.floatElementoLeft
+{
+    float: left;
+}
+
+.topGlip
+{
+    color: #ffffff;
+}
+
+.encParrafo
+{
+    margin-top: 15px;
+    padding-left: 3px;
+    font: bold 14pt Verdana;
+}
+
+.flecha:hover
+{
+    cursor: pointer;
+}
+
+.nombreEventoPrograma
+{
+    font: bold 18pt verdana;
+    color: #d2edff;
+}
+
+.container
+{
+    margin-top: -12px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.segundodiv
+{
+    margin-top: 41px;
+}
+
+.cabezasInfo
+{
+    font-family: Verdana;
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+.datosInfo
+{
+    font-size: 11pt;
+    font-weight: normal;
+    margin-left: 2px;
+    font-family: Verdana;
+}
+
+.marginsimple
+{
+    margin-left: 18px;
+}
+
+.tercerdiv
+{
+    margin-top: 52px;
+}
+
+.botonesCM
+{
+    background: #01495f;
+    color: #ffffff;
+    font-size: 11pt;
+    font-family: Verdana;
+    font-weight: Regular;
+    border: none;
+    width: 90% !important;
+}
+
+.azulclaro
+{
+    background-color: #0394ed;
+    color: #fffbfb;
+    border: none;
+}
+
+.amarillo
+{
+    background-color: #ffa80b;
+    border-radius: 2px 0px 0px 2px !important;
+}
+
+.purpura
+{
+    background-color: #683d8b;
+    border-radius: 2px 0px 0px 2px !important;
+}
+
+.cuartodiv
+{
+    margin-top: 19px;
+}
+
+.botonEliminar
+{
+    color: #ffffff;
+    background-color: #a91800;
+    border: none;
+}
+
+.tablaDiv
+{
+    margin-top: 28px;
+}
+
+.tableTHAzul thead th
+{
+    color: white;
+    background: #908f94;
+    text-align: center;
+    font: Verdana;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+.tableTHAzul tbody td
+{
+    color: #003471;
+    text-align: center;
+    font: 12pt verdana;
+    border-right: 2px solid;
+}
+
+.tableTHAzul tfoot td
+{
+    color: white;
+    background: #337aB7;
+    text-align: center;
+    font-size: 12pt;
+}
+
+.tableTHAzul tfoot th
+{
+    color: white;
+    background: #337aB7;
+    text-align: center;
+    font: 10pt verdana;
+}
+
+.tabla-border
+{
+    border-left: 1px solid #a7a7a7;
+}
+
+.odd
+{
+    backgroud: #ffffff;
+}
+
+.even
+{
+    background: #e9e8ee;
+}
+
+.div.dataTables_paginate
+{
+    font-size: 12px;
+}
+
+.editBoton
+{
+    background-color: #07cc87;
+    border: none;
+}
+
+.spanEdit
+{
+    color: #fffdfd;
+}
+
+.checkBox
+{
+    border: 1px solid  #00ec83;
+    padding: 10px;
+    -webkit-box-shadow: 0px 0px 0px 1px rgba(255,0,0,1);
+    -moz-box-shadow: 0px 0px 0px 1px rgba(255,0,0,1);
+    box-shadow: 0px 0px 0px 1px #07cc87;
+}
+
+.botonGuardar
+{
+    height: 40px;
+    width: 116px;
+    color: #fff;
+    background-color: #3ecf8a;
+    margin-right: 16px;
+    -moz-border-radius: 8px 8px 8px 8px;
+    -webkit-border-radius: 8px 8px 8px 8px;
+    border-radius: 8px 8px 8px 8px;
+    font-family: Open Sans;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+.cerrarBtn
+{
+    height: 40px;
+    width: 113px;
+    color: #fff;
+    background-color: #0394ed;
+    -moz-border-radius: 8px 8px 8px 8px;
+    -webkit-border-radius: 8px 8px 8px 8px;
+    border-radius: 8px 8px 8px 8px;
+    font-family: Open Sans;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.inputfield
+{
+    margin-top: 20px;
+    margin-right: -65px !important;
+}
+
+.roundBorder
+{
+    -moz-border-radius: 10px 10px 10px 10px !important;
+    -webkit-border-radius: 10px 10px 10px 10px!important;
+    border-radius: 0px 5px 5px 0px !important;
+}
+
+.dataTables_filter
+{
+    float: left;
+    margin-left: -32px !important;
+}
+
+.botonemilinar
+{
+    width: 43px;
+}
+
+.customModal
+{
+    width: 44%;
+    vertical-align: center;
+}
+
+.customModal .modal-content
+{
+    background: #e5e5e6;
+}
+
+.customModal .modal-header
+{
+    height: 2px;
+}
+
+.inputInModal
+{
+    border: none;
+    border-bottom: 1px #000 solid;
+    background: #e5e5e6;
+    text-shadow: none;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 16pt;
+    color: #003471;
+    font-weight: normal;
+    height: 20%;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.extraWithbtnModal
+{
+    width: 54%;
+    height: 79px;
+    font-family: Open Sans;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+.extrawithBtnDeleteModal
+{
+    width: 39%;
+    height: 79px;
+    background: #e8333c;
+    font-family: Open Sans;
+    font-weight: bold;
+    font-size: 16pt;
+    margin-left: -18px;
+}
+
+.infoListadoEventos
+{
+    font-family: Verdana;
+    font-weight: lighter;
+    font-size: 14pt;
+}
+
+.calendarclass
+{
+    background: #003471;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.infoCalendar
+{
+    width: 33%;
+    margin-right: -113px;
+}
+
+.spaninfoCalendar
+{
+    background: #4b5a6f;
+    font-family: Verdana;
+    font-size: 13.5pt;
+    font-weight: Lighter;
+    height: 30px;
+    width: 100%;
+}
+
+.iconInfoCalendar
+{
+    background: #003471;
+    color: #ffffff;
+    border: none;
+}
+
+.segDivEventos
+{
+    width: 73%;
+    text-align: left;
+}
+
+#listado_eventos
+{
+    margin-right: auto !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+#listado_participantes
+{
+}
+
+.agregarPartinListado
+{
+    width: 36% !important;
+    margin-right: -15px !important;
+    margin-bottom: 12px;
+    z-index: 10;
+    position: sticky;
+    margin-top: 58px;
+}
+
+.extraMarginTabListadoPart
+{
+    margin-top: 80px;
+}
+
+.extrapamas
+{
+    font-size: 12pt;
+}
+
+.borderImage
+{
+    margin-bottom: 12px;
+}
+
+.marginTopFix
+{
+    margin-top: 3px;
+}
+
+.margintopGroup
+{
+    margin-top: 40px !important;
+}
+
+.brnrofo
+{
+    background-color: #a91800;
+}
+
+.pdivbtn
+{
+    width: 61%;
+}
+
+.marginleftfix
+{
+    margin-left: 35px !important;
+}
+
+.segundobtn
+{
+    width: 53% !important;
+    margin-top: -34px !important;
+    margin-left: 548px;
+}
+
+.newbtn
+{
+    height: 34px;
+    border-radius: 0px 5px 5px 0px;
+    text-align: center;
+    background: rgb(1, 73, 95) none repeat scroll 0% 0%;
+    color: rgb(255, 255, 255);
+    font-size: 11pt;
+    font-family: Verdana;
+    font-weight: bolder;
+    border: medium none;
+    width: 208px;
+    margin: -10px -10px -10px 11px !important;
+}
+
+
+.newspan
+{
+    padding: 4px 9px 9px;
+    border-radius: 5px 5px 5px 5px !important;
+    max-height: 41px;
+}
+

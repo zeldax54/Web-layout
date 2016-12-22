@@ -73,6 +73,12 @@
 	   .pdivbtn {
     width: 57%;
        }
+	   
+	   #qrimg{
+width: 60%;
+height: 60%;
+	   }
+
 }
 
 @media (max-width:800px)
