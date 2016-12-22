@@ -177,12 +177,19 @@ height: 60%;
 	}
 }
 
-@media (min-width:980px){
+@media (min-width:1024px){
 	.infoCalendar {
 	width: 35% !important;
    margin-right: -113px !important;
 	 
 	}
+}
+@media (max-width:768px){
+.infoCalendar {
+	width: 45% !important;
+margin-right: 10px !important;
+	 
+	}	
 }
 @media (min-width:1024px){
 	.infoCalendar {
