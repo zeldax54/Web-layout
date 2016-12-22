@@ -17,7 +17,9 @@ if (navigator.appName == 'Microsoft Internet Explorer' ||  !!(navigator.userAgen
 }
     
 	});
-	
+	$( window ).resize(function() {
+  
+});
 
 
 
@@ -67,8 +69,10 @@ function IniciarTabla(tablaid,colorder) {
                {
                "targets": colorder,               
                "orderable": false,
-			   }
-			]
+			   },
+			 
+			],
+		
 			
     });
 }
